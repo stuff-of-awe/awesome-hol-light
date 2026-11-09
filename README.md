@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome HOL Light
 
 Find a route from an OCaml session to a reusable mathematical proof.
